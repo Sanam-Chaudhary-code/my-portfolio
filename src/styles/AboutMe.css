@@ -2,6 +2,7 @@
   padding: 20px 10%;
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
+  width: 100%;
 }
 
 .about-container h3 {
