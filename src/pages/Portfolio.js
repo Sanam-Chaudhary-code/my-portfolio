@@ -9,7 +9,7 @@ import MyVideoCall from '../assets/my-video-call-image.png';
 const projects = [
   {
     title: 'My Video Call',
-    description: 'Real-time communication app with chat, screen sharing, and audio/video calls.',
+    description: 'Web app with chat, screen sharing, and audio/video calls.',
     link: 'https://my-video-call-app-jduv.onrender.com/',
     technologies: ['HTML', 'CSS', 'React', 'Node.js', 'MongoDB'],
     image: MyVideoCall,
