@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.82a41189.css",
-    "main.js": "/my-portfolio/static/js/main.7e823841.js",
+    "main.js": "/my-portfolio/static/js/main.b7813fef.js",
     "static/media/hero-image.png": "/my-portfolio/static/media/hero-image.19da29710cb5ef794e2d.png",
     "static/media/tic-tak-toc.jpg": "/my-portfolio/static/media/tic-tak-toc.f8c25ecf4ccc36d2821c.jpg",
     "static/media/simon-says-image.jpg": "/my-portfolio/static/media/simon-says-image.e87dff138ca182b25f7d.jpg",
+    "static/media/my-video-call-image.png": "/my-portfolio/static/media/my-video-call-image.621c61c1dd5717e9ae49.png",
     "static/media/project-image.png": "/my-portfolio/static/media/project-image.4a6a0f2d0fd52c748321.png",
     "static/media/sanam-logo.png": "/my-portfolio/static/media/sanam-logo.6de864acc7c772f712b3.png",
     "static/media/mysql-icon.svg": "/my-portfolio/static/media/mysql-icon.68c8655ee4a0bef4ec99192c22346b09.svg",
@@ -17,10 +18,10 @@
     "static/media/html-icon.svg": "/my-portfolio/static/media/html-icon.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-icon.svg": "/my-portfolio/static/media/javascript-icon.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.82a41189.css.map": "/my-portfolio/static/css/main.82a41189.css.map",
-    "main.7e823841.js.map": "/my-portfolio/static/js/main.7e823841.js.map"
+    "main.b7813fef.js.map": "/my-portfolio/static/js/main.b7813fef.js.map"
   },
   "entrypoints": [
     "static/css/main.82a41189.css",
-    "static/js/main.7e823841.js"
+    "static/js/main.b7813fef.js"
   ]
 }
