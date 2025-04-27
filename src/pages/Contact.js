@@ -60,7 +60,7 @@ const Contact = () => {
         </div>
         <div className="pdf-viewer">
           <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.worker.min.js">
-            <Viewer fileUrl="/resume/Sanam_ChaudharyCV.pdf" />
+            <Viewer fileUrl={`${process.env.PUBLIC_URL}/resume/Sanam_ChaudharyCV.pdf`} />
           </Worker>
         </div>
       </div>
